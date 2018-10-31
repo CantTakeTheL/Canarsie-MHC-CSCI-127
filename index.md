@@ -1,7 +1,7 @@
 ## Canarsie, NY
 Outline of Neighborhood goes here.
 
-![alt text](mapOutline.png)
+![mapOutline](mapOutline.png)
 ## Demographics of Neighborhood
 Demographics Stats
 
