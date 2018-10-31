@@ -1,13 +1,19 @@
-## Canarsie, NY
-Outline of Neighborhood goes here.
-
+# Canarsie, NY
 ![mapOutline](mapOutline.png)
-## Demographics of Neighborhood
-Demographics Stats
+This map is centered around Canarsie, New York with the L-line shown in Gray, and popular bus lines and their routes show in various colors.
 
-|Tables |Are |Cool|
-|-------|:--:|---:|
-|Cool   |Tabl|Ye  |
+## Demographics of Neighborhood
+#### Total Population in Canarsie: 92,399
+
+|Race     |Percentage|
+|---------|---------:|
+|White    |22%       |
+|Black    |64%       |
+|Hispanic |4%        |
+|Asian    |9%        |
+|Other    |1%        |
+
+
 
 ## Station Usage Statistics
 Station Usage Statistics
