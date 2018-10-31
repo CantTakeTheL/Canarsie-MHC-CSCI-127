@@ -7,4 +7,7 @@ Demographics Stats
 
 ## Station Usage Statistics
 Station Usage Statistics
+![cumulativeEntries](CumulativeEntries.png)
+![cumulativeExits](CumulativeExits.png)
+![Entries-Exits](Entries-Exits.png)
 
