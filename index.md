@@ -1,4 +1,10 @@
 # Canarsie, NY
+This site displays assorted data collected on Canarsie, New York and the effect the L- line closure will have on Canarsie.  
+This site was created by Christopher Melendez.
+___
+
+## Map Outline of Canarsie, NY
+
 ![mapOutline](mapOutline.png)
 
 This map is centered around Canarsie, New York with the L-line shown in Gray, and popular bus lines and their routes show in various colors.
@@ -40,8 +46,11 @@ ___
 ___
 
 ## Station Usage Statistics
-Station Usage Statistics
-![cumulativeEntries](CumulativeEntries.png)
+![cumulativeEntries](CumulativeEntries.png) 
+This graph shows the cumulative entries at one of the turnstiles at the Canarsie - Rockaway Parkway station along the L - line.
 ![cumulativeExits](CumulativeExits.png)
+This graph shows the cumulative exits at one of the turnstiles at the Canarsie - Rockaway Parkway station along the L - line.
 ![Entries-Exits](Entries-Exits.png)
+This graph shows the cumulative entries minus the cumulative exits at one of the turnstiles at the Canarsie - Rockaway Parkway station along the L - line.
+
 
