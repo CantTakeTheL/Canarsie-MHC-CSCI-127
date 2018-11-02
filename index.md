@@ -47,10 +47,15 @@ ___
 
 ## Station Usage Statistics
 ![cumulativeEntries](CumulativeEntries.png) 
+
 This graph shows the cumulative entries at one of the turnstiles at the Canarsie - Rockaway Parkway station along the L - line.
-![cumulativeExits](CumulativeExits.png)
+
+![cumulativeExits](CumulativeExits.png) 
+
 This graph shows the cumulative exits at one of the turnstiles at the Canarsie - Rockaway Parkway station along the L - line.
-![Entries-Exits](Entries-Exits.png)
+
+![Entries-Exits](Entries-Exits.png) 
+
 This graph shows the cumulative entries minus the cumulative exits at one of the turnstiles at the Canarsie - Rockaway Parkway station along the L - line.
 
 
