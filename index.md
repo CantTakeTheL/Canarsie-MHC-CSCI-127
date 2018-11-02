@@ -1,5 +1,5 @@
 # Canarsie, NY
-##### https://ctash98.github.io/Canarsie-MHC-CSCI-127/
+##### (https://ctash98.github.io/Canarsie-MHC-CSCI-127)
 This site displays assorted data collected on Canarsie, New York and the effect the L- line closure will have on Canarsie. This site was created by Christopher Melendez.
 
 ___
